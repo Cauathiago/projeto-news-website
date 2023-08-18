@@ -21,6 +21,12 @@ p {
   padding: 0.5rem 0rem;
 }
 
+a {
+  text-decoration: none;
+  text-transform: initial;
+  color: unset;
+}
+
 h1,
 h2,
 h3 {
