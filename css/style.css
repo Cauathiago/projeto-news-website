@@ -227,12 +227,12 @@ SHOWCASE
 
 .showcase .text-content a {
   text-decoration: none;
-  padding: 10px 15px;
+  padding: 10px 25px;
   font-size: 1.05rem;
   font-weight: 400;
   display: inline-block;
   color: white;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   background-color: var(--primary-color);
   margin-top: 10px;
 }
@@ -344,11 +344,11 @@ footer {
 }
 
 .footer article:last-child a {
-  display: inline-block;
+  display: block;
   text-decoration: none;
   color: white;
   text-align: center;
-  padding: 0.6rem 0.8rem;
+  padding: 0.5rem;
   background-color: orange;
   margin-top: 0.7rem;
 }
