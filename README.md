@@ -4,7 +4,7 @@ Este projeto é de um **site de notícias** anônimo. Ele é criado com HTML, CS
 
 ## Live site:
 
-Clique [neste link azul](https://cauathiago.github.io/projeto-news-website/index.html), para poder ter acesso ao site rodando ao vivo.
+Clique [neste link azul](https://cauathiago.github.io/projeto-news-website/index.html), para ter acesso ao site rodando ao vivo.
 
 ## screen:
 
